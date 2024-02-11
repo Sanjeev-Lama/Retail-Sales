@@ -45,6 +45,11 @@ This visualization displays average spending per transaction across age groups a
 ### How Different Age Groups and Genders Spend Over Time
 
 This line graph visualization is chosen for its ability to effectively capture temporal spending patterns, allowing users to track spending evolution over time. It facilitates comparison across age groups and genders, providing clear insight into shifts or patterns. Segmentation by product category through color coding adds depth, highlighting significant contributors to spending. The option to filter by age group and gender enhances customization and relevance to specific demographics. Overall, its comprehensive and intuitive format makes it the preferred choice for analyzing spending behaviors over time.
+![How Different Age Groups and Genders Spend Over Time](https://github.com/Sanjeev-Lama/Retail-Sales/assets/158605914/69a630e0-8e84-4449-a32b-d2f04c069243)
+
+### Understanding Price Variations Across Product Categories
+
+This bar chart visualization is favored for its clarity and adaptability in analyzing price variations across product categories. It enables straightforward comparisons of average price per unit and enhances category differentiation through color coding. Users can customize the analysis with filters for gender, date, and age group, providing relevant insights. Additionally, details on total quantity purchased and maximum/minimum prices per unit enrich the analysis, offering a comprehensive understanding of price dynamics. Overall, it provides an intuitive and insightful exploration of price variations across product categories, making it the preferred choice for this metric.
 
 
 
