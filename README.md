@@ -35,6 +35,7 @@ All the queries of the questions below are written in this [link](https://docs.g
 ### Gender-specific Shopping Trends Across Time
 
 I went with a bar graph because it's straightforward and shows us how spending varies between men and women. The setup, with bars side by side, really highlights those differences over time. looking at three specific product types and their trends—the bar graph is the way to go. It's just easy to understand and lets us compare things efficiently.
+
 ![Gender-specific Shopping Trends Across Time](https://github.com/Sanjeev-Lama/Retail-Sales/assets/158605914/a7385cd3-1064-47e4-90c9-90070c4f7aab
 
 ### Typical Amount Spent in Each Purchase
@@ -50,6 +51,7 @@ This line graph visualization is chosen for its ability to effectively capture t
 ### Understanding Price Variations Across Product Categories
 
 This bar chart visualization is favored for its clarity and adaptability in analyzing price variations across product categories. It enables straightforward comparisons of average price per unit and enhances category differentiation through color coding. Users can customize the analysis with filters for gender, date, and age group, providing relevant insights. Additionally, details on total quantity purchased and maximum/minimum prices per unit enrich the analysis, offering a comprehensive understanding of price dynamics. Overall, it provides an intuitive and insightful exploration of price variations across product categories, making it the preferred choice for this metric.
+![Understanding Price Variations Across Product Categories](https://github.com/Sanjeev-Lama/Retail-Sales/assets/158605914/2bbb281f-3841-454b-a0e8-5d1cb338715a)
 
 
 
