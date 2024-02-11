@@ -32,7 +32,8 @@ All the queries of the questions below are written in this [link](https://docs.g
 
 ## Tableau Visualizations
 
-### Gender-specific Shopping Trends Across Time 
+### Gender-specific Shopping Trends Across Time
 
 I went with a bar graph because it's straightforward and shows us how spending varies between men and women. The setup, with bars side by side, really highlights those differences over time. looking at three specific product types and their trends—the bar graph is the way to go. It's just easy to understand and lets us compare things efficiently.
+
 
