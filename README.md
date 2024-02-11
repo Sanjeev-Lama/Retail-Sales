@@ -40,6 +40,11 @@ I went with a bar graph because it's straightforward and shows us how spending v
 ### Typical Amount Spent in Each Purchase
 
 This visualization displays average spending per transaction across age groups and product categories using horizontal bars. Each bar represents a product category, with length indicating average spending. Filters for date and gender enable customized analysis. Color coding by age group enhances readability and reveals spending patterns. Additional insights on quantity, total amount, and quantity to amount ratio deepen understanding of purchasing behavior within each group and category.
+![Typical Amount Spent in Each Purchase](https://github.com/Sanjeev-Lama/Retail-Sales/assets/158605914/dc0050a1-b19b-47dc-99ed-1cc07a1b4eab)
+
+### How Different Age Groups and Genders Spend Over Time
+
+This line graph visualization is chosen for its ability to effectively capture temporal spending patterns, allowing users to track spending evolution over time. It facilitates comparison across age groups and genders, providing clear insight into shifts or patterns. Segmentation by product category through color coding adds depth, highlighting significant contributors to spending. The option to filter by age group and gender enhances customization and relevance to specific demographics. Overall, its comprehensive and intuitive format makes it the preferred choice for analyzing spending behaviors over time.
 
 
 
