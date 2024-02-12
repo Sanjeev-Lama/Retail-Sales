@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [EDA Questions](#eda-questions)
-  - [Sample](#sample) 
+  - [Query Sample](#query-sample) 
 - [Tableau Visualizations](#tableau-visualizations)
   - [Gender-specific Shopping Trends Across Time](#gender-specific-shopping-trends-across-time)
   - [Typical Amount Spent in Each Purchase](#typical-amount-spent-in-each-purchase)
@@ -41,7 +41,7 @@ All of my thinking approaches and queries of the questions can be found in this 
 - Are there distinct purchasing behaviors based on the number of items bought per transaction?
 - What insights can be gleaned from the distribution of product prices within each category?
 
-#### Sample 
+#### Query Sample 
 - What are the relationships between age, spending, and product preferences?
 
 ```
