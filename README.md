@@ -9,7 +9,8 @@
   - [Gender-specific Shopping Trends Across Time](#gender-specific-shopping-trends-across-time)
   - [Typical Amount Spent in Each Purchase](#typical-amount-spent-in-each-purchase)
   - [How Different Age Groups and Genders Spend Over Time](#how-different-age-groups-and-genders-spend-over-time)
-  - [Understanding Price Variations Across Product Categories](#understanding-price-variations-across-product-categories) 
+  - [Understanding Price Variations Across Product Categories](#understanding-price-variations-across-product-categories)
+- [Recommendations](#recommendations) 
 - [Links](#links)
 
 
@@ -81,9 +82,17 @@ This line graph visualization is chosen for its ability to effectively capture t
 This bar chart visualization is favored for its clarity and adaptability in analyzing price variations across product categories. It enables straightforward comparisons of average price per unit and enhances category differentiation through color coding. Users can customize the analysis with filters for gender, date, and age group, providing relevant insights. Additionally, details on total quantity purchased and maximum/minimum prices per unit enrich the analysis, offering a comprehensive understanding of price dynamics. Overall, it provides an intuitive and insightful exploration of price variations across product categories, making it the preferred choice for this metric.
 ![Understanding Price Variations Across Product Categories](https://github.com/Sanjeev-Lama/Retail-Sales/assets/158605914/2bbb281f-3841-454b-a0e8-5d1cb338715a)
 
+## Recommendations
+
+- We need to tailor marketing efforts to cater to gender-specific shopping trends, focusing on clothing for females and electronics for males, while enhancing overall customer engagement through personalized strategies.
+- Optimizing the marketing strategies based on age group spending behaviors over time, capitalizing on peak purchasing periods and utilizing dynamic filters for targeted promotions.
+- We also need to focus on leveraging strong consumer demand in clothing to drive revenue growth, highlight the value proposition of beauty products through targeted marketing, and maintain consistent pricing strategies across all categories for balanced offerings.
+
 ## Links
 1. Entire conversation with [ChatGPT](https://chat.openai.com/share/ffc827e0-0d0d-44f9-aa64-09175c67f5a2)
 2. My Approach and Queries are [here](https://docs.google.com/document/d/16_NAU0MkbFRbCRxEkoUAJ61tVwdl7P3K1UMS07PMvbE/edit)
-3. Tableau Story Visualizations are [here](https://public.tableau.com/app/profile/sanjeev.lama/viz/Retail_Sales_17075229358090/RetailSales?publish=yes) 
+3. Tableau Story Visualizations are [here](https://public.tableau.com/app/profile/sanjeev.lama/viz/Retail_Sales_17075229358090/RetailSales?publish=yes)
+4. [Video Presentation](https://www.canva.com/design/DAF8mGNlKZE/cHp1k_Gg0znXmH3QkFOJ1Q/view?utm_content=DAF8mGNlKZE&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
+5. Project Presentation [here](
 
 
