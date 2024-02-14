@@ -93,6 +93,6 @@ This bar chart visualization is favored for its clarity and adaptability in anal
 2. My Approach and Queries are [here](https://docs.google.com/document/d/16_NAU0MkbFRbCRxEkoUAJ61tVwdl7P3K1UMS07PMvbE/edit)
 3. Tableau Story Visualizations are [here](https://public.tableau.com/app/profile/sanjeev.lama/viz/Retail_Sales_17075229358090/RetailSales?publish=yes)
 4. [Video Presentation](https://www.canva.com/design/DAF8mGNlKZE/cHp1k_Gg0znXmH3QkFOJ1Q/view?utm_content=DAF8mGNlKZE&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
-5. Project Presentation [here]([Retail Sales Project.pdf](https://github.com/Sanjeev-Lama/Retail-Sales/files/14284508/Retail.Sales.Project.pdf) 
+5. Project Presentation [here](https://github.com/Sanjeev-Lama/Retail-Sales/files/14284508/Retail.Sales.Project.pdf) 
 
 
